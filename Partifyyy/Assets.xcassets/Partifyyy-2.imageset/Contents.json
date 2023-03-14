@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Partifyyy.png",
+      "filename" : "Partifyyy-2.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Partifyyy@2x.png",
+      "filename" : "Partifyyy-2@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Partifyyy@3x.png",
+      "filename" : "Partifyyy-2@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
